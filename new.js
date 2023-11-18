@@ -25,6 +25,7 @@ function displayproducts(){
     </div>`
         
     });
+        product_container_element.innerHTML=innerhtml;
 }
 
 
