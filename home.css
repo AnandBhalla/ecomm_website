@@ -237,10 +237,7 @@ button.normal{
     padding: 5px;
     color: wheat;
     margin-top: 5px;
-}
-
-
-.pro-details .single-pro-image{
+}#pro-details .single-pro-image{
     width: 30%;
     margin-right: 50px;
     margin-bottom: 100px;
@@ -248,39 +245,39 @@ button.normal{
     height: 400px;
     border: 2px solid black;
 }
-.pro-details{
+#pro-details{
     display: flex;
     margin-top: 20px;
 }
-.pro-details .details{
+#pro-details .details{
     width: 50%;
     padding-top:30px ;
 }
-.pro-details .details h4{
+#pro-details .details h4{
     padding: 40px 0 20px 0;
 }
-.pro-details .details h2{
+#pro-details .details h2{
     font-size: 26px;
 }
-.pro-details .details select{
+#pro-details .details select{
     display: block;
     padding: 5px 10px;
     margin-bottom: 10px;
 }
-.pro-details .details input{
+#pro-details .details input{
     width: 50px;
     height: 47px;
     padding-left:10px ;
     font-size: 16px;
     margin-right: 10px;
 }
-.pro-details .details button{
+#pro-details .details button{
     background-color: #088178;
     color: white;
 }
-.pro-details .details input:focus{
+#pro-details .details input:focus{
     outline: none;
 }
-.pro-details .details span{
+#pro-details .details span{
     line-height: 25px;
 }
