@@ -3,7 +3,7 @@ function displayproducts(){
     product_container_element=document.querySelector(".shop-products");
     innerhtml='';
     products.forEach(product => {
-        innerhtml+=`<div class="product-container"> <div class="product" onclick="window.location.href="${product.single_product}"">
+        innerhtml+=`<div class="product-container"> <div class="product" onclick="window.location.href='${product.single_product}'">
         <img src="${product.product_image}" alt="">
     </div>
     <div class="desc">
