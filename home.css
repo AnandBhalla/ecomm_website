@@ -286,6 +286,7 @@ button.normal{
 }
 #login{
     display: flex;
+    flex-direction:row;
 }
 #logininfo{
     display: flex;
