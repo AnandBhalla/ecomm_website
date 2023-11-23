@@ -311,3 +311,15 @@ button.normal{
     margin-left:5px ;
     padding: 10px;
 }
+.add-to-cart{
+    background-color: #088178;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s ease;
+}
