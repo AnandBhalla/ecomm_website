@@ -21,6 +21,7 @@ function displayproducts(){
             ${product.product_original_price}
             </span>
         </div>
+         <button class="add-to-cart"  onclick="addToBag(${product.id})">add to cart</button>
     </div>
     </div>`
         
